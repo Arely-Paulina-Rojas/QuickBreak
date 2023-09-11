@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.v7.widget.CardView
+            android:id="@+id/cardView2"
+            android:layout_width="379dp"
+            android:layout_height="99dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="23dp"
+            android:layout_marginEnd="16dp"
+            app:cardCornerRadius="10dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/cardView">
+
+            <ImageButton
+                android:id="@+id/imgReloj"
+                android:layout_width="50dp"
+                android:layout_height="48dp"
+                android:background="#FFFFFF"
+                android:backgroundTint="#FFFFFF"
+                android:tint="#3F51B5"
+                app:srcCompat="@android:drawable/ic_lock_idle_alarm" />
+
+            <TextView
+                android:id="@+id/txtNombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20sp"
+                android:textStyle="bold"
+                android:translationX="40dp"
+                android:translationY="9dp" />
+
+            <Button
+                android:id="@+id/btnModificar"
+                android:layout_width="291dp"
+                android:layout_height="26dp"
+                android:background="#F3F3F3"
+                android:text="Modificar"
+                android:translationX="15dp"
+                android:translationY="56dp" />
+
+            <Button
+                android:id="@+id/btnEliminar"
+                android:layout_width="32dp"
+                android:layout_height="26dp"
+                android:background="@drawable/ic_delete"
+                android:backgroundTint="#DC143C"
+                android:translationX="320dp"
+                android:translationY="56dp" />
+
+            <Button
+                android:id="@+id/btnIniciar"
+                android:layout_width="wrap_content"
+                android:layout_height="26dp"
+                android:background="@drawable/round_btn"
+                android:text="Iniciar"
+                android:translationX="265dp"
+                android:translationY="10dp" />
+
+        </android.support.v7.widget.CardView>
+    </LinearLayout>
+</LinearLayout>

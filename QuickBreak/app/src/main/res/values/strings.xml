@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QuickBreak</string>
+    <string-array name="spActividad">
+        <item>Caminar 10 minutos</item>
+        <item>Tomar agua</item>
+        <item>Ejercicios de respirar</item>
+        <item>Comer fruta</item>
+    </string-array>
+</resources>

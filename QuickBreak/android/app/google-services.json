@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754367086860",
+    "project_id": "quickbreak-27a8f",
+    "storage_bucket": "quickbreak-27a8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754367086860:android:9cb8615b1b4feb5e010929",
+        "android_client_info": {
+          "package_name": "com.example.quickbreak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754367086860-89rt2seu0o5enqqaf02gl4m02ems7g3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGT8DIm9ZcwR42xR-46jAApcOVCbpUmZU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754367086860-89rt2seu0o5enqqaf02gl4m02ems7g3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
