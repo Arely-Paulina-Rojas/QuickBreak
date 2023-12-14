@@ -1,4 +1,5 @@
 # QuickBreak
 Mobile application to remember when to pause while playing a video game.
 
-![quickbreak_2](https://github.com/Arely-Paulina-Rojas/QuickBreak/assets/37195469/182f3e2a-bbee-4a8d-83ed-b92c3717601c)
+![image](https://github.com/Arely-Paulina-Rojas/QuickBreak/assets/37195469/6086843b-c8d1-42b3-80af-9cbde77a3a4a)
+
